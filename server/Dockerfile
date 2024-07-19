@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 3004
 
 # Start the application
-CMD ["yarn", "start"]
+CMD ["yarn", "dev"]
